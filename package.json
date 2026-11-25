@@ -1,0 +1,1 @@
+{"description":"The funniest honest appliance error message: a washing machine confesses about the missing sock.","license":"MIT","main":"main.ts","name":"appliance-error-line","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
